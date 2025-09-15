@@ -1,0 +1,74 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+header,#first-div{
+    background-color:#1F2937 ;
+
+}
+button{
+    background-color: #3882f6;
+}
+#hero{
+    size: 48px;
+    color: #E5E7EB;
+    font-weight: 900;
+}
+#header-logo{
+    size: 24px;
+    color:#F9FAF8;
+}
+.link{
+    size: 18px;
+    color:#E5E7EB;
+}
+#info{
+    size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+    text-align: center;
+}
+#fourth-div{
+    background-color: #E5E7EB;
+}
+#quote{
+    size: 36px;
+    font-style: light italic;
+    color: #1f2937;
+
+}
+footer{
+    background-color: #3882f6;
+}
+#big-div{
+    display: flex;
+    justify-content: space-around;
+    
+}
+#link-div{
+    display: flex;
+}
+#web-div{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+#text{
+    size: 18px;
+    color:#E5E7EB;
+    font-weight: lighter;
+}
+#third-div{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.meow{
+    border: solid 3px #3882f6 ;
+    border-radius:10px;
+}
+footer{
+    margin:auto;
+    width: 70%;
+    height: 100px;
+}
